@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="JavaSE-1.8">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="unirest-java-1.4.9.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/omdbJava/unirest-java-1.4.9.jar!/"/>
+	</lib>
+	<lib name="commons-codec-1.9.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/omdbJava/httpcomponents-client-4.5.2-bin/httpcomponents-client-4.5.2/lib/commons-codec-1.9.jar!/"/>
+	</lib>
+	<lib name="commons-logging-1.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/omdbJava/httpcomponents-client-4.5.2-bin/httpcomponents-client-4.5.2/lib/commons-logging-1.2.jar!/"/>
+	</lib>
+	<lib name="fluent-hc-4.5.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/omdbJava/httpcomponents-client-4.5.2-bin/httpcomponents-client-4.5.2/lib/fluent-hc-4.5.2.jar!/"/>
+	</lib>
+	<lib name="httpclient-4.5.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/omdbJava/httpcomponents-client-4.5.2-bin/httpcomponents-client-4.5.2/lib/httpclient-4.5.2.jar!/"/>
+	</lib>
+	<lib name="httpclient-cache-4.5.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/omdbJava/httpcomponents-client-4.5.2-bin/httpcomponents-client-4.5.2/lib/httpclient-cache-4.5.2.jar!/"/>
+	</lib>
+	<lib name="httpclient-win-4.5.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/omdbJava/httpcomponents-client-4.5.2-bin/httpcomponents-client-4.5.2/lib/httpclient-win-4.5.2.jar!/"/>
+	</lib>
+	<lib name="httpcore-4.4.4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/omdbJava/httpcomponents-client-4.5.2-bin/httpcomponents-client-4.5.2/lib/httpcore-4.4.4.jar!/"/>
+	</lib>
+	<lib name="httpmime-4.5.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/omdbJava/httpcomponents-client-4.5.2-bin/httpcomponents-client-4.5.2/lib/httpmime-4.5.2.jar!/"/>
+	</lib>
+	<lib name="jna-4.1.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/omdbJava/httpcomponents-client-4.5.2-bin/httpcomponents-client-4.5.2/lib/jna-4.1.0.jar!/"/>
+	</lib>
+	<lib name="jna-platform-4.1.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/omdbJava/httpcomponents-client-4.5.2-bin/httpcomponents-client-4.5.2/lib/jna-platform-4.1.0.jar!/"/>
+	</lib>
+	<lib name="gson-2.6.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/omdbJava/gson-2.6.2.jar!/"/>
+	</lib>
+	<lib name="commons-csv-1.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/BSEDataFetcher/externals/commons-csv-1.2/commons-csv-1.2.jar!/"/>
+	</lib>
+	<lib name="joda-time-2.9.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/Atlassian_ff/joda-time-2.9.2-dist/joda-time-2.9.2/joda-time-2.9.2.jar!/"/>
+	</lib>
+	<lib name="zip4j_1.3.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/BSEDataFetcher/externals/zip4j_1.3.2.jar!/"/>
+	</lib>
+</component>

@@ -1,0 +1,41 @@
+[ 05-26-2016 11:45:975 IST ] Getting equity data for SBBJ...
+[ 05-26-2016 11:45:975 IST ] Equity data for SBBJ >>> 462.75,462.05,472.90,462.05,470.20
+[ 05-26-2016 11:45:975 IST ] Getting equity data for DENABANK...
+[ 05-26-2016 11:45:975 IST ] Equity data for DENABANK >>> 28.55,28.75,28.80,28.25,28.70
+[ 05-26-2016 11:45:975 IST ] Getting equity data for BANKBARODA...
+[ 05-26-2016 11:45:975 IST ] Equity data for BANKBARODA >>> 133.30,134.10,136.30,132.50,134.95
+[ 05-26-2016 11:45:975 IST ] Getting equity data for BANKINDIA...
+May 26, 2016 11:43:20 PM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://www.bseindia.com:80: No route to host: connect
+May 26, 2016 11:43:20 PM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://www.bseindia.com:80
+May 26, 2016 11:43:20 PM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://www.bseindia.com:80: No route to host: connect
+May 26, 2016 11:43:20 PM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://www.bseindia.com:80
+May 26, 2016 11:43:20 PM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://www.bseindia.com:80: No route to host: connect
+May 26, 2016 11:43:20 PM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://www.bseindia.com:80
+Exception in thread "main" java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:74)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107)
+	at bseJava.bseApacheFetcher.getEquityData(bseApacheFetcher.java:224)
+	at bseJava.bseApacheFetcher.main(bseApacheFetcher.java:69)

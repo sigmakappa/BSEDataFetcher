@@ -1,0 +1,78 @@
+Security Code,Security Id,Security Name,Status,Group,Face Value,ISIN No,Industry,Instrument
+500209,INFY,INFOSYS LTD.,Active,A ,5.00,INE009A01021,IT Consulting &amp; Software,Equity
+500463,AGCNET,AGC Networks Limited,Active,B ,10.00,INE676A01019,IT Consulting &amp; Software,Equity
+504067,ZENSARTECH,ZENSAR TECHNOLOGIES LTD.,Active,B ,10.00,INE520A01019,IT Consulting &amp; Software,Equity
+504351,EMPOWER,EMPOWER INDIA LTD.,Active,XD,1.00,INE507F01023,IT Consulting &amp; Software,Equity
+504375,SOFTBPO,SOFTBPO GLOBAL SERVICES LTD.,Active,P ,10.00,INE459E01012,IT Consulting &amp; Software,Equity
+505504,SINDUVA,SINDU VALLEY TECHNOLOGIES LTD.,Active,P ,10.00,,IT Consulting &amp; Software,Equity
+507685,WIPRO,WIPRO LTD.,Active,A ,2.00,INE075A01022,IT Consulting &amp; Software,Equity
+508998,STEERINTER,STERLING INTERNATIONAL ENTERPRISES LTD.-$,Active,XD,1.00,INE696C01021,IT Consulting &amp; Software,Equity
+511144,ASYAINFO,Asya Infosoft Limited,Active,XD,10.00,INE520G01016,IT Consulting &amp; Software,Equity
+512175,VAMA,VAMA INDUSTRIES LTD.,Active,XD,10.00,INE685D01014,IT Consulting &amp; Software,Equity
+512413,SPECTACLE,Spectacle Ventures Ltd,Active,B ,1.00,INE409H01028,IT Consulting &amp; Software,Equity
+517433,INSOE,INNOVATION SOFTWARE EXPORTS LTD.,Active,XD,10.00,INE568B01016,IT Consulting &amp; Software,Equity
+517536,ONWARDTEC,ONWARD TECHNOLOGIES LTD.,Active,B ,10.00,INE229A01017,IT Consulting &amp; Software,Equity
+526299,MPHASIS,MPHASIS LTD.,Active,A ,10.00,INE356A01018,IT Consulting &amp; Software,Equity
+526433,ASMTEC,ASM TECHNOLOGIES LTD.,Active,XD,10.00,INE867C01010,IT Consulting &amp; Software,Equity
+526881,FINANTECH,FINANCIAL TECHNOLOGIES (INDIA) LTD.,Active,B ,2.00,INE111B01023,IT Consulting &amp; Software,Equity
+530651,SOFTECH,SOFTECH INFINIUM SOLUTIONS LTD.,Active,XD,10.00,INE181K01019,IT Consulting &amp; Software,Equity
+530703,INFODRIVE,INFO-DRIVE SOFTWARE LTD.,Active,XD,1.00,INE804D01029,IT Consulting &amp; Software,Equity
+530713,AJEL,AJEL LTD.,Active,Z ,10.00,INE229B01015,IT Consulting &amp; Software,Equity
+530801,DIAMOND,DIAMOND INFOSYSTEMS LTD.,Active,XT,10.00,INE280D01014,IT Consulting &amp; Software,Equity
+530885,AURUMSOFT,Aurum Soft Systems Limited,Active,XD,2.00,INE600D01021,IT Consulting &amp; Software,Equity
+531370,SPARCSYS,SPARC SYSTEMS LTD.,Active,XT,10.00,INE960B01015,IT Consulting &amp; Software,Equity
+531439,GOLDTECH,GOLDSTONE TECHNOLOGIES LTD.,Active,B ,10.00,INE805A01014,IT Consulting &amp; Software,Equity
+531533,ECOM,E.COM INFOTECH (I) LTD.,Active,XT,10.00,INE578B01015,IT Consulting &amp; Software,Equity
+531616,STARCOM,Starcom Information Technology Ltd,Active,XT,10.00,INE347I01010,IT Consulting &amp; Software,Equity
+531677,ARISINT,ARIS INTERNATIONAL LTD.,Active,P ,10.00,INE588E01026,IT Consulting &amp; Software,Equity
+531682,CATECH,CAT TECHNOLOGIES LTD.,Active,XD,10.00,INE170B01037,IT Consulting &amp; Software,Equity
+531781,SAPANCHEM,SAPAN CHEMICALS LTD.,Active,XT,10.00,INE823E01035,IT Consulting &amp; Software,Equity
+531825,RCCEMEN,RCC CEMENTS LTD.,Active,XT,10.00,INE335N01015,IT Consulting &amp; Software,Equity
+531980,SENINFO,Senthil Infotek Ltd,Active,XT,10.00,INE564B01015,IT Consulting &amp; Software,Equity
+532129,HEXAWARE,HEXAWARE TECHNOLOGIES LTD.,Active,A ,2.00,INE093A01033,IT Consulting &amp; Software,Equity
+532172,SPHEREGSL,Sphere Global Services Ltd.,Active,B ,10.00,INE737B01033,IT Consulting &amp; Software,Equity
+532175,CYIENT,Cyient Limited,Active,A ,5.00,INE136B01020,IT Consulting &amp; Software,Equity
+532221,SONATSOFTW,SONATA SOFTWARE LTD.,Active,B ,1.00,INE269A01021,IT Consulting &amp; Software,Equity
+532268,ACCELYA,Accelya Kale Solutions Limitd,Active,B ,10.00,INE793A01012,IT Consulting &amp; Software,Equity
+532281,HCLTECH,HCL TECHNOLOGIES LTD.,Active,A ,2.00,INE860A01027,IT Consulting &amp; Software,Equity
+532312,GEOMETRIC,GEOMETRIC LTD.,Active,B ,2.00,INE797A01021,IT Consulting &amp; Software,Equity
+532341,IZMO,IZMO Limited-$,Active,B ,10.00,INE848A01014,IT Consulting &amp; Software,Equity
+532342,COMMEXTECH,Commex Technology Limited,Active,XD,2.00,INE354B01029,IT Consulting &amp; Software,Equity
+532365,DSSL,DYNACONS SYSTEMS &amp; SOLUTIONS LTD.,Active,B ,10.00,INE417B01040,IT Consulting &amp; Software,Equity
+532370,RAMCOSYS,RAMCO SYSTEMS LTD.,Active,B ,10.00,INE246B01019,IT Consulting &amp; Software,Equity
+532400,KPIT,KPIT Technologies Limited,Active,A ,2.00,INE836A01035,IT Consulting &amp; Software,Equity
+532466,OFSS,ORACLE FINANCIAL SERVICES SOFTWARE LTD.,Active,A ,5.00,INE881D01027,IT Consulting &amp; Software,Equity
+532540,TCS,TATA CONSULTANCY SERVICES LTD.,Active,A ,1.00,INE467B01029,IT Consulting &amp; Software,Equity
+532541,NIITTECH,NIIT TECHNOLOGIES LTD.,Active,A ,10.00,INE591G01017,IT Consulting &amp; Software,Equity
+532628,3IINFOTECH,3I INFOTECH LTD.,Active,B ,10.00,INE748C01020,IT Consulting &amp; Software,Equity
+532663,SASKEN,SASKEN COMMUNICATION TECHNOLOGIES LTD.,Active,B ,10.00,INE231F01020,IT Consulting &amp; Software,Equity
+532666,FCSSOFT,FCS SOFTWARE SOLUTIONS LTD.,Active,B ,1.00,INE512B01022,IT Consulting &amp; Software,Equity
+532735,RSYSTEMINT,R Systems International Limited,Active,B ,1.00,INE411H01032,IT Consulting &amp; Software,Equity
+532755,TECHM,TECH MAHINDRA LTD.,Active,A ,5.00,INE669C01036,IT Consulting &amp; Software,Equity
+532774,AFL,ACCEL FRONTLINE LTD.,Active,B ,10.00,INE020G01017,IT Consulting &amp; Software,Equity
+532819,MINDTREE,MINDTREE LTD.,Active,A ,10.00,INE018I01017,IT Consulting &amp; Software,Equity
+532866,QUINTEGRA,QUINTEGRA SOLUTIONS LTD.,Active,T ,10.00,INE033B01011,IT Consulting &amp; Software,Equity
+532875,ADSL,ALLIED DIGITAL SERVICES LTD.,Active,B ,5.00,INE102I01027,IT Consulting &amp; Software,Equity
+532882,OMNITECH,OMNITECH INFOSOLUTIONS LTD.,Active,B ,10.00,INE810H01019,IT Consulting &amp; Software,Equity
+532890,TAKE,TAKE SOLUTIONS LTD.,Active,B ,1.00,INE142I01023,IT Consulting &amp; Software,Equity
+532951,GSS,GSS INFOTECH LTD.,Active,B ,10.00,INE871H01011,IT Consulting &amp; Software,Equity
+533121,SQSBFSI,SQS India BFSI Limited,Active,B ,10.00,INE201K01015,IT Consulting &amp; Software,Equity
+533154,INFINITE,Infinite Computer Solutions (India) Ltd,Active,B ,10.00,INE486J01014,IT Consulting &amp; Software,Equity
+533179,PERSISTENT,PERSISTENT SYSTEMS LTD.,Active,A ,10.00,INE262H01013,IT Consulting &amp; Software,Equity
+533330,ACROPETAL,ACROPETAL TECHNOLOGIES LTD.,Active,T ,10.00,INE055L01013,IT Consulting &amp; Software,Equity
+533499,BGLOBAL,BHARATIYA GLOBAL INFOMEDIA LTD.,Active,T ,10.00,INE224M01013,IT Consulting &amp; Software,Equity
+533525,HEALTHTECH,HEALTHFORE TECHNOLOGIES LTD.,Active,XD,10.00,INE402L01017,IT Consulting &amp; Software,Equity
+533982,TERASOFT,TERA SOFTWARE LTD.,Active,XD,10.00,INE482B01010,IT Consulting &amp; Software,Equity
+534659,JOINTECAED,JOINTECA EDUCATION SOLUTIONS LTD.,Active,MT,10.00,INE131N01018,IT Consulting &amp; Software,Equity
+534758,CIGNITI,CIGNITI TECHNOLOGIES LTD.,Active,B ,10.00,INE675C01017,IT Consulting &amp; Software,Equity
+534920,COVIDH,COVIDH TECHNOLOGIES LIMITED,Active,XD,10.00,INE899M01012,IT Consulting &amp; Software,Equity
+535657,OONE,OBJECTONE INFORMATION SYSTEMS LTD.,Active,XD,10.00,INE860E01011,IT Consulting &amp; Software,Equity
+535719,QUEST,Quest Softech (India) Ltd,Active,XT,10.00,INE989J01017,IT Consulting &amp; Software,Equity
+536868,INTELSOFT,Integra Telecommunication &amp; Software Ltd,Active,XD,10.00,INE256F01019,IT Consulting &amp; Software,Equity
+538734,ADCC,ADCC Infocad Ltd,Active,M ,10.00,INE016Q01014,IT Consulting &amp; Software,Equity
+538793,TEJINFOWAY,Tej Infoways Ltd,Active,XT,10.00,INE530C01014,IT Consulting &amp; Software,Equity
+538923,SOFCOM,Sofcom Systems Ltd,Active,XT,10.00,INE499Q01012,IT Consulting &amp; Software,Equity
+539122,BODHTREE,Bodhtree Consulting Ltd,Active,XD,10.00,INE104F01011,IT Consulting &amp; Software,Equity
+539169,FUNNY,Funny Software Ltd,Active,MT,10.00,INE105R01013,IT Consulting &amp; Software,Equity
+539289,MJCO,Majesco Ltd,Active,B ,5.00,INE898S01029,IT Consulting &amp; Software,Equity
+590128,SHREETULSI,SHREE TULSI ONLINE.COM LTD.,Active,XD,10.00,INE130D01037,IT Consulting &amp; Software,Equity
