@@ -1,8 +1,13 @@
-# BSE Data Fetcher
-##### Get Equity OHLC data from Bombay Stock Exchange of India 
+#BSE Data Fetcher
+#####Get Equity OHLC data from Bombay Stock Exchange of India 
 ======================================================
 
-This utility presents the user with daily OHLC data .
+This utility presents the user with daily OHLC (Open, High, Low, Close prices) data w.r.t different equities present in different market segments (like Automobiles, Cotton, Petroleum, Steel, etc) and saves it to the specific equitiy's corresponding CSV file. The respective CSV file(s), upon daily execution of the project, accumulate daily OHLC data over time. 
+
+#####What to do with the CSV file(s)?
+The CSV files contain data when accumulated with data over a period of time (minimum 14 days) can be used in Equity Price Trend Analysis (read more about it here [Technical Analysis Wikpedia](https://en.wikipedia.org/wiki/Technical_analysis))
+
+
 
 ### Usage
 Requires Java 1.8.0 or above.
