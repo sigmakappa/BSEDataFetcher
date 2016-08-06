@@ -5,7 +5,7 @@
 This utility presents the user with daily OHLC (Open, High, Low, Close prices) data w.r.t different equities present in different market segments (like Automobiles, Cotton, Petroleum, Steel, etc) and saves it to the specific equity's corresponding CSV file. The respective CSV file(s), upon daily execution of the project, accumulate daily OHLC data over time. 
 
 #####What to do with the CSV file(s)?
-The CSV files contain data when accumulated with data over a period of time (minimum 14 days) can be used in Equity Price Trend Analysis (read more about it here [Technical Analysis Wikpedia](https://en.wikipedia.org/wiki/Technical_analysis)). These trend analysis reports can help in making better decisions in stock trading.
+The CSV files contain data accumulated over a period of time (minimum 14 days) which can be used in Equity Price Trend Analysis (read more about it here [Technical Analysis Wikpedia](https://en.wikipedia.org/wiki/Technical_analysis)). These trend analysis reports can help in making better decisions in stock trading.
 
 
 ### Usage
