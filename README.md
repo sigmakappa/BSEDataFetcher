@@ -2,29 +2,24 @@
 #####Get Equity OHLC data from Bombay Stock Exchange of India 
 ======================================================
 
-This utility presents the user with daily OHLC (Open, High, Low, Close prices) data w.r.t different equities present in different market segments (like Automobiles, Cotton, Petroleum, Steel, etc) and saves it to the specific equitiy's corresponding CSV file. The respective CSV file(s), upon daily execution of the project, accumulate daily OHLC data over time. 
+This utility presents the user with daily OHLC (Open, High, Low, Close prices) data w.r.t different equities present in different market segments (like Automobiles, Cotton, Petroleum, Steel, etc) and saves it to the specific equity's corresponding CSV file. The respective CSV file(s), upon daily execution of the project, accumulate daily OHLC data over time. 
 
 #####What to do with the CSV file(s)?
-The CSV files contain data when accumulated with data over a period of time (minimum 14 days) can be used in Equity Price Trend Analysis (read more about it here [Technical Analysis Wikpedia](https://en.wikipedia.org/wiki/Technical_analysis))
-
+The CSV files contain data when accumulated with data over a period of time (minimum 14 days) can be used in Equity Price Trend Analysis (read more about it here [Technical Analysis Wikpedia](https://en.wikipedia.org/wiki/Technical_analysis)). These trend analysis reports can help in making better decisions in stock trading.
 
 
 ### Usage
 Requires Java 1.8.0 or above.
 
-For running the associated jar, simply navigate to the directory where the jar is placed and run:
+For running the associated jar, simply unzip the zip file associated below and navigate to the directory where the jar is placed and run:
 ```
-java -jar VFL.jar
+java -jar BSEDataFetcher.jar
 ```
-Post running the jar, the user is presented with HTML Report named **RedundancyReport.html** which presents the user with the redundant file names, their specific locations (paths) and sizes (in bytes, kb, mb, etc).
-
-### Sample VFL console screenshot
-![VFL Console Screenshot] (https://github.com/sigmakappa/VFL/blob/master/VFL_console.jpg)
+Post running the jar, the user is presented with CSV files in associated directory **EquityData** which contains the OHLC data for today for the specific equity, appended to the bottom of the CSV file.
 
 ### Updates on future releases:
-* Currenly supports only Windows and Video files (hence the V in VFL as currently only video files are supported)
-* Implement smarter algorithm to check redundency better and bring out more suggestions on redundancy. 
+There can be unlimited uses to an equity's long time OHLC data. For the time, focus is to apply different models of predictive analysis and follow the best combined indication.  
 
-### Download JAR file
+### Download the ZIP (containing the JAR) file
 
-Download the JAR file from [here](https://github.com/sigmakappa/VFL/blob/master/VFL.jar).
+Download the ZIP file from [here](https://github.com/sigmakappa/BSEDataFetcher/blob/master/BSEDataFetcher.zip).
