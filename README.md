@@ -1,8 +1,8 @@
-BSE Data Fetcher
+# BSE Data Fetcher
 ##### Get Equity OHLC data from Bombay Stock Exchange of India 
 ======================================================
 
-This utility (currently) presents the user with a list of redundant video files (in MP4, AVI, DAT, FLV ,MKV , MOV, WMV formats) present in a number of desired directories.
+This utility presents the user with daily OHLC data .
 
 ### Usage
 Requires Java 1.8.0 or above.
