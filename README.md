@@ -1,4 +1,4 @@
-#BSE Data Fetcher
+BSE Data Fetcher
 
 Get Equity OHLC data from Bombay Stock Exchange of India 
 ======================================================
